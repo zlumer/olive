@@ -1,6 +1,4 @@
-# FROM mwaeckerlin/mingw
-
-FROM mmozeiko/mingw-w64
+FROM rwgrim/msys2-cross
 
 # RUN pacman -Syu
 
